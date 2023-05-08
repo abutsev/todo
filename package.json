@@ -10,7 +10,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^5.0.1",
-    "sass-loader": "^13.2.2"
+    "sass-loader": "^13.2.2",
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
